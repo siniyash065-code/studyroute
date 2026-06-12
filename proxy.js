@@ -1,0 +1,6 @@
+{
+  "name": "studyroute",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
